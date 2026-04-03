@@ -1,4 +1,4 @@
-//print odd nubers from 11 to 30
+//Print odd or even
 let i=13;
 
     if (i%2!=0){
